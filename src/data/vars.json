@@ -1,0 +1,10 @@
+{
+    "iss": {
+      "adddriver": {"firstname": "ravi", "licencestatus": "Active", "age": "36", "gender": "Male"},
+      "searchdriver": {"lastname": "gaddam"},
+      "login": {"id": "tstmtote","pwd": "password"},
+      "quicksearch": {"cvor": "199-960-156"},
+      "advancedsearch": {"cvor": "199-960-156"}
+      }
+
+}
