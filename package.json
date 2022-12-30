@@ -20,9 +20,9 @@
     "chai": "^4.2.0",
     "chromedriver": "^80.0.2",
     "gulp-babel": "^8.0.0-beta.2",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "mocha-junit-reporter": "^1.23.3",
-    "nightwatch": "^1.3.4",
+    "nightwatch": "^1.4.0",
     "nightwatch-slack-reporter": "0.0.2"
   },
   "dependencies": {
